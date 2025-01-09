@@ -1,0 +1,157 @@
+System Tweaks
+- no taking screenshots & no screen recording
+- nosiri
+- no iBookStore
+- enough apps (Doesnt let you install more apps)
+- no facetime
+- no airdrop
+- no apple music & radio
+- Permanent apps (nobody can delete apps)
+- No in app purchases (nobody can buy ingame currency/anything inside apps)
+- no icloud (remove icloud backup option, icloud  document and data, icloud keychain from your device)
+- no icloud photo sharing & photo library (remove icloud photosharing and photo library option)
+- disable icloud photo stream 
+- encrypted backups (encrypts your backups to ensure safety)
+-safe content & settings (no one can erase your content or settings)
+- no more modifications (no one can change your settings)
+- safe passcode touch id or face id (no one can change your passcode/touchid/faceid without your permission)
+- permanent wallpaper (no one can change your wallpaper withour your permission)
+- remove passcode option (no faceid/touchid/passcode needed in order to unlock device)
+- no apple watch (remove pairing apple watch with iphone)
+- your keyboard (no annoying keyboard shortcuts,  autocorrect spell check on ur device)
+- clear lock screen (no controlcenter and no notifications on lockscreen)
+- no itune store 
+- no news (removes news app)
+- remove podcasts (no podcasts on your phone)
+- no safari (you cannot use browsers like safari, google chrome, firefox etc. )
+- no youtube (you cannot use any kind of youtube)
+- iphone without camera (make your phone not be able to use camera, can be disabled)
+- only youtube (you can only use the youtube app)
+- only safari (you can use only safari)
+- no entertainment (this will remove apps like youtube, camera, appstore, news and music from ur phone)
+- safe safari (safari detects  fraud websites and warns you)
+- never accept cookies (safari never accepts cookies)
+- popup block (safari blocks all popups)
+- passcode attempt modifier (lets you change how many times you can get your passcode wrong till it locks, only 1-10 supported)
+
+themes
+
+(Zylon)(Chance of working: most)
+- ando ios
+- unpivot
+- ace n ios
+- redattract 3d
+- sidebox 3d
+- ikitpack
+- dark moon
+- black boom
+- b7ackngr4y
+- dent
+- candy
+- simply & Cu
+- Cirtangle Shadow
+- Whitedrawn
+- LonSh.theme
+- Red_Attract
+- Stock Qetto HD
+- Metro Blue
+- Circle Bee
+- Blue Velvet
+- Green Android
+- Craven
+- Pink Moon
+- Muze 3
+- Circle icons extreme
+- Zuko
+- Box green
+- Shiny Purple
+- Simply & Cute
+- POP Blue HD
+- Purple Art
+- Penguin World
+- Windows 8
+- Orange Light
+- Green Lantern
+- Green iOS
+- Desa 1
+- Hello Kitty 
+- Lanting 
+- Dark_Glow 3D
+- Project Zero
+- Red iShadow 
+- Blue Print
+- Wood Fusion
+- Wording
+- Caricature iOS
+- Coedo
+- Metro silver HD
+- Sea waves Theme
+- iAtomic
+- Dreams
+- Light-Metallic iOS
+- Oyster
+- Smooth purple
+- magic woodman
+- neon
+- sharp eye
+- emojis
+- RetroFit iOS
+- Shiny Pink
+- Hex Star
+- Blue World
+- Green on pink
+
+(Cydia 2)(chance of working: most yes most not)
+- 0 Ground
+- NF3RR3D
+- 3LEVEN
+- Aurai
+- BlackLegum
+- Black Ors3
+- 1984
+- Big Sur
+- Christmas Special
+- Classy Gold
+- Convergence
+- Darken
+- Ecru
+- Felicity
+- Gold_V2
+- iOS 7 Classic
+- justAdaRkTh3me
+- Juwel
+- Kotex
+- lotus revised
+- lumi
+- mandolino
+- milkshake
+- nightlight
+- nookphone
+- oreo
+- outlineOS
+- Oyster (2)
+- Pandemonium Candy
+- Pavo
+- Phosphorus
+- Pollux
+- Raketa
+- Red Boss
+- Satina
+- Serendipity
+- Skeuo
+- Slushi
+- Thine
+- Yumru
+
+Virtual Jailbreaks
+- Palerain  Jailbreak
+- Xina  Jailbreak
+- Uncover  Jailbreak
+- Checkra1n  Jailbreak
+- Tijong Xuni Jailbreak
+- Fugu 18 Jailbreak
+- Checkrain Mirror Jailbreak
+- HackSn0w Jailbreak
+- Dopamine Jailbreak
+- Cheyote Jailbreak
+- TyMax Jailbreak

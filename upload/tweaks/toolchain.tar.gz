@@ -1,0 +1,39 @@
+<?php
+
+function get_latest($repo, $idx) {
+    return "https://github.com/kabiroberai/darwin-tools-linux/releases/download/v1.0.1/linux-cctools.tar.gz";
+    /* $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, "https://api.github.com/repos/$repo/releases/latest");
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_FAILONERROR, true);
+    curl_setopt($ch, CURLOPT_USERAGENT, 'Toolchain-Info-Bot');
+    $output = json_decode(curl_exec($ch), false);
+    $error = curl_error($ch);
+    curl_close($ch);
+    if ($error) return NULL;
+    return $output->assets[$idx]->browser_download_url; */
+}
+
+if (!isset($_GET['toolchain'])) return;
+
+$repo_arg = $_GET['toolchain'];
+$repo_name = NULL;
+$idx = 0;
+switch ($repo_arg) {
+    case 'swift-ubuntu-latest':
+        $repo_name = 'kabiroberai/swift-toolchain-linux';
+        break;
+    case 'ios-linux':
+        $repo_name = 'kabiroberai/ios-toolchain-linux';
+        break;
+    default:
+        break;
+}
+
+$result = get_latest($repo_name, $idx);
+if (!is_null($result)) {
+    header("Location: $result");
+    exit();
+}
+
+?>
