@@ -1,0 +1,137 @@
+{
+  "name": "Primrose",
+  "description": "Theme made by Myrayuo, inspired by my favorite colors.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "myrayuo",
+      "id": "940062409618497630"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#2ed784",  // Light green
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#9ab4d8",  // Light blue-gray
+      "#4f5660"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#2ed784",  // Light green
+      "#53c6a3"   // Slightly darker green
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#00b4d8",  // Light blue
+      "#4f5660"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#c0e0e8",  // Lighter blue-gray
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#00b4d8",  // Light blue
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#B4F8B6",  // Light green
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#A9F3B4",  // Soft green
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#B3F9D8",  // Soft blue-green
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#B4F8B6",  // Light green
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#00b4d8",  // Light blue
+      "#00b4d8"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#B3F9D8",  // Soft blue-green
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#B4F8B6",  // Light green
+      "#00b4d8"   // Light blue
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#A9F3B4",  // Soft green
+      "#ffffff"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#A9F3B4",  // Soft green
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#2ed784",  // Light green
+      "#2ed784"
+    ],
+    "CHANNEL_ICON": [
+      "#99b0c1",
+      "#99b0c1"
+    ],
+    "TEXT_LINK": [
+      "#00b4d8",  // Light blue
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#A9F3B4",  // Soft green
+      "#FFFFFF"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_230": "#00b4d8",  // Light blue
+    "PRIMARY_500": "#34a4fa",
+    "PRIMARY_600": "#111011",
+    "PRIMARY_630": "#141414",
+    "PRIMARY_640": "#2ed784",  // Light green
+    "PRIMARY_700": "#1a1a1a",
+    "PRIMARY_800": "#111011",
+    "BRAND_260": "#34a4fa",
+    "BRAND_360": "#12a0ff",
+    "BRAND_500": "#34a4fa",
+    "BRAND_560": "#34a4fa",
+    "BRAND_NEW": "#12a0ff",
+    "GREEN_360": "#12a0ff",
+    "STATUS_RED": "#f7071f",
+    "STATUS_GREEN_600": "#2ed784",  // Light green
+    "PLUM_24": "#1a1a1a"
+  },
+  "background": {
+    "blur": 13.4,
+    "url": "https://s1.zerochan.net/Ganyu.600.3758472.jpg",  // New image URL
+    "alpha": 1.0
+  },
+  "plus": {
+    "version": "1.0",
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": ["#e64553"],
+      "StatusStreaming": ["#7e64fb"],
+      "StatusMobileOnline": ["#1cd45c"],
+      "StatusIdle": ["#ffea08"],
+      "StatusDND": ["#ff0839"],
+      "StatusOffline": ["#212021"],
+      "StatusOnline": ["#1cd45c"]
+    }
+  },
+  "unreadBadgeColor": "#2ed784",  // Light green
+  "mentionLineColor": "#2ed784",  // Light green
+  "customOverlays": true,
+  "spec": 2
+}
